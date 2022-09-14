@@ -1,0 +1,1 @@
+Sitemap: https://ibiene-ds.github.io/jekyll-theme-yat/sitemap.xml
