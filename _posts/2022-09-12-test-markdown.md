@@ -231,7 +231,7 @@ ci.plot()
 The resulting plot(s) can be seen below.
 
 <br>
-![alt text](assets/images/banners/causal-impact-results-plot.png "Causal Impact Results Plot")
+![Causal Impact Results Plot](https://github.com/ibiene-ds/portfolio-test/tree/master/assets/images/banners/causal-impact-results-plot.png)
 
 <br>
 To explain what we have in the above image...
